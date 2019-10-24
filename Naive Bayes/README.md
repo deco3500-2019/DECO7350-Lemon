@@ -30,6 +30,11 @@ We choosed 0.3 as threshold. The probability which over 0.3 indicates that this 
 sleep quality. The probability which less than 0.3 indicates that this activity doesn't have direct relationship with user
 sleep quality
 
+----------------------------------------------------------------------------------------------------------------------
 
+we recorded a user which within 30 days records. The feedback datset is '5.txt'
+
+----------------------------------------------------------------------------------------------------------------------
+The file 'bar chart.xlsx' was generated based on the training results from user records 
 
 
