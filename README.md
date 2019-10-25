@@ -1,4 +1,15 @@
 # DECO7350-Lemon
+
+### Final Prototype URL
+https://org.modao.cc/app/54ujfks76uk239bk9p1oc63lmwutx
+### How to use it
+* Sign-in Page: Type the Emails and password to sign-in
+* App Instruction Page: Basic instruction of Sweet Sleep
+* Home Page: Start to record today's checklist by clicking the yellow button at the centre
+* Answer questions from Q1 to Q7, then go back to the Home page
+* Enter the Data Analysis page through the bottom navigation bar
+* View the analysis result and suggestion, then go back to the Home page
+* Enter the Forum page through the bottom navigation bar
 ### Design Progress Overview
 https://github.com/deco3500-2019/DECO7350-Lemon/wiki/Design-Process-overview
 
